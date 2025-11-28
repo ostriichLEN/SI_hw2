@@ -1,5 +1,10 @@
 [
-    {"name": "比特幣 (BTC)", "quantity": 45},
-    {"name": "以太幣 (ETH)", "quantity": 30},
-    {"name": "狗狗幣 (DOGE)", "quantity": 15}
+    {
+        "name": "2330",
+        "quantity": 500
+    },
+    {
+        "name": "0050",
+        "quantity": 1000
+    }
 ]
