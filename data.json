@@ -1,6 +1,10 @@
 [
-    {"name": "比特幣 (BTC)", "quantity": 45},
-    {"name": "以太幣 (ETH)", "quantity": 30},
-    {"name": "卡爾達諾 (ADA)", "quantity": 15},
-    {"name": "其他", "quantity": 10}
+    {
+        "name": "2330",
+        "quantity": 500
+    },
+    {
+        "name": "0050",
+        "quantity": 1000
+    }
 ]
