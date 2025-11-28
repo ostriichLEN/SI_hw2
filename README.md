@@ -34,6 +34,8 @@ python output.py
 
 腳本會根據`data.json`繪製出圓餅圖。
 
+![alt text](image.png)
+
 ## 檔案說明
 
 - **`Input.py`**
